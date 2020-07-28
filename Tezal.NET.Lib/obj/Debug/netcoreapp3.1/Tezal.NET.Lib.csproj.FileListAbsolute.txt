@@ -1,0 +1,13 @@
+C:\Users\aidil\source\repos\Tezal.NET\Tezal.NET.Lib\obj\Debug\netcoreapp3.1\Tezal.NET.Lib.csprojAssemblyReference.cache
+C:\Users\aidil\source\repos\Tezal.NET\Tezal.NET.Lib\obj\Debug\netcoreapp3.1\Tezal.NET.Lib.csproj.CoreCompileInputs.cache
+C:\Users\aidil\source\repos\Tezal.NET\Tezal.NET.Lib\obj\Debug\netcoreapp3.1\Tezal.NET.Lib.AssemblyInfoInputs.cache
+C:\Users\aidil\source\repos\Tezal.NET\Tezal.NET.Lib\obj\Debug\netcoreapp3.1\Tezal.NET.Lib.AssemblyInfo.cs
+C:\Users\aidil\source\repos\Tezal.NET\Tezal.NET.Lib\bin\Debug\netcoreapp3.1\Tezal.NET.Lib.exe
+C:\Users\aidil\source\repos\Tezal.NET\Tezal.NET.Lib\bin\Debug\netcoreapp3.1\Tezal.NET.Lib.deps.json
+C:\Users\aidil\source\repos\Tezal.NET\Tezal.NET.Lib\bin\Debug\netcoreapp3.1\Tezal.NET.Lib.runtimeconfig.json
+C:\Users\aidil\source\repos\Tezal.NET\Tezal.NET.Lib\bin\Debug\netcoreapp3.1\Tezal.NET.Lib.runtimeconfig.dev.json
+C:\Users\aidil\source\repos\Tezal.NET\Tezal.NET.Lib\bin\Debug\netcoreapp3.1\Tezal.NET.Lib.dll
+C:\Users\aidil\source\repos\Tezal.NET\Tezal.NET.Lib\bin\Debug\netcoreapp3.1\Tezal.NET.Lib.pdb
+C:\Users\aidil\source\repos\Tezal.NET\Tezal.NET.Lib\obj\Debug\netcoreapp3.1\Tezal.NET.Lib.dll
+C:\Users\aidil\source\repos\Tezal.NET\Tezal.NET.Lib\obj\Debug\netcoreapp3.1\Tezal.NET.Lib.pdb
+C:\Users\aidil\source\repos\Tezal.NET\Tezal.NET.Lib\obj\Debug\netcoreapp3.1\Tezal.NET.Lib.genruntimeconfig.cache
